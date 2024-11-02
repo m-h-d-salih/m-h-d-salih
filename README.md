@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack MERN Stack Developer from India</h3>
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salihp&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
 ![LeetCode Stats](https://leetcode.card.workers.dev/m_h_d__salih?theme=dark&font=source_code_pro&extension=null)
 </div>
 <div align="center">
