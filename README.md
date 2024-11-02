@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <div align="center"> 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark) <br /><br />
   ![LeetCode Stats](https://leetcode.card.workers.dev/u/m_h_d__salih?theme=dark&font=source_code_pro&extension=null)
 </div>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-h-d-salih&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-h-d-salih&layout=compact&theme=vision-friendly-dark)
 </div>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
@@ -36,18 +36,11 @@
     <td><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a></td>
     <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a></td>
     <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a></td>
-    <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a></td>
-    <td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a></td>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a></td>
     <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a></td>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a></td>
     <td><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a></td>
+    <td><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a></td>
+    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a></td>
   </tr>
 </table>
 </p>
-
-<!-- Footer -->
-![Footer](https://github.com/m-h-d-salih/m-h-d-salih/raw/main/footer.svg)
