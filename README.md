@@ -22,18 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-h-d-salih&" alt="m-h-d-salih" /></p>
 
 
-<h1 align="center">Hi 👋, I'm Mohammed Salih</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
-<div align="center"> 
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
-![LeetCode Stats](https://leetcode.card.workers.dev/m-h-d-salih?theme=dark&font=source_code_pro&extension=null)
-</div>
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-h-d-salih&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-h-d-salih&label=Profile%20views&color=0e75b6&style=flat" alt="m-h-d-salih" /> </p>
 
