@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Salih</h1>
-<h3 align="center">A Passionate Full Stack MERN Stack Developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
