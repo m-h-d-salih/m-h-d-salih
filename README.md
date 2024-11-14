@@ -31,13 +31,13 @@
 <p align="left">
 <table>
 <tr>
-  <td  width="96"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a></td>
-  <td  width="96"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a></td>
+  <td  align="center" width="96"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a></td>
  
   
-  <td  width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <td  align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
      </td>
-   <td  width="96"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a></td>
+   <td  align="center" width="96"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a></td>
 </tr>
 <tr>
   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
