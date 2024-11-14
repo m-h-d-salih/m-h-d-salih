@@ -47,7 +47,7 @@
 </tr>
 <tr>
   <td align="center" width="96"><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="TypeScript" width="62" height="62" /></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="62" height="62" /></td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
   <td align="center" width="96"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></td>
 </tr>
