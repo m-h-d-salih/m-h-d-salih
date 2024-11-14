@@ -53,7 +53,7 @@
 </tr>
 <tr>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="62" height="62" /></td>
-  <td align="center" width="96"><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="c++" width="62" height="62" /> </a></td>
   <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></td>
   <td align="center" width="96"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></td>
 </tr>
