@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://instagram.com/m_h_d__salih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anazmalik" height="30" width="40" /></a>
+<a href="https://instagram.com/m_h_d__salih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_h_d__salih" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mohammed-salih-7571062b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-h-d-salih" height="30" width="40" /></a>
 </p>
 
@@ -31,7 +31,7 @@
 <p align="left">
 <table>
 <tr>
-  <td align="center" width="96"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a></td>
+  <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/></td>
   <td  align="center" width="96"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a></td>
  
   
