@@ -61,6 +61,7 @@
   
   <td align="center" width="96"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></td>
   <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" height="62" /></td>
+  <td align="center" width="96"> <img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" height="62"  /></td>
   <td align="center" width="96"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://vetores.org/d/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a></td>
 </tr>
 </table>
