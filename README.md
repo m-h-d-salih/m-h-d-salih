@@ -37,7 +37,7 @@
   
   <td  align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
      </td>
-   <td  align="center" width="96"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a></td>
+   <td  align="center" width="96"><img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node JS" width="65" height="65" /></td>
 </tr>
 <tr>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
