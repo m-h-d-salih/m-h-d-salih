@@ -3,7 +3,7 @@
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
-<img src="https://leetcard.jacoblin.cool/m-h-d-salih?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/m_h_d__salih?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
 </div>
 <div align="center">
   
