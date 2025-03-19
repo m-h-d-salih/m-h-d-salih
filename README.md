@@ -64,6 +64,13 @@
   <td align="center" width="96"> <img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" height="62"  /></td>
   <td align="center" width="96"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://vetores.org/d/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a></td>
 </tr>
+<tr>
+  
+  <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /> </td>
+  <td align="center" width="96">  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" /></td>
+  <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></td>
+</tr>
 </table>
 </p>
 </div>
