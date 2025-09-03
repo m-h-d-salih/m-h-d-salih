@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working as a MERN Stack Developer in Bridgeon Solutions LLP
 
-- 💬 Ask me about **JavaScript, React,Next Js, Node js, Express js, MongoDB,SQL,C#,C++,C,JAVA**
+- 💬 Ask me about **JavaScript, React,Next Js, Node js, Express js, MongoDB,SQL,C#,C++,C,JAVA,Python**
 
 - 📫 reach me on **salihsha656@gmail.com**
 
